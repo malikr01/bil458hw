@@ -1,1 +1,1 @@
-bu bir tersten yıldız piramit yazdırma uygulamasıdır kullanıcadan aldıgı satır sayısına göre tersten piramit oluşturur
+This is a reverse star pyramid printing application. It creates a reverse pyramid based on the number of rows entered by the user. MEHMET ALİ KARACA 
